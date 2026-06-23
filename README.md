@@ -76,6 +76,7 @@ The project includes a business dashboard highlighting:
 * Peak Order Hours
 * Order Status Distribution
 * Revenue by Restaurant
+* Top Cities
 
 ---
 
