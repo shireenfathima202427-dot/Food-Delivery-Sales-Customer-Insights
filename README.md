@@ -49,6 +49,7 @@ Using Python, Pandas, Matplotlib, and Seaborn, the dataset was cleaned, analyzed
 * Order Status Distribution
 * Top Restaurants by Orders
 * Top Restaurants by Revenue
+* Top Cities by Orders
 * Customer Rating Distribution
 * Rating vs Revenue Analysis
 * Delivery Distance Analysis
