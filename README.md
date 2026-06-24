@@ -39,8 +39,9 @@ Using Python, Pandas, Matplotlib, and Seaborn, the dataset was cleaned, analyzed
 | File Format | CSV |
 | Dataset Size | 6.34 MB |
 
-<img width="1597" height="731" alt="dataset_preview" src="https://github.com/user-attachments/assets/d8516200-6bac-40c7-8cca-d27c1940387c" />
+## Dataset Preview
 
+![Dataset Preview](images/dataset_preview.png)
 ## 🛠 Technologies Used
 
 * Python
