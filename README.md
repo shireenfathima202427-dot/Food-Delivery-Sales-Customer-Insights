@@ -39,17 +39,7 @@ Using Python, Pandas, Matplotlib, and Seaborn, the dataset was cleaned, analyzed
 | File Format | CSV |
 | Dataset Size | 6.34 MB |
 
-### Dataset Preview
-
-| Restaurant Name | City | Order Status | Distance | Rating |
-|----------------|------|--------------|----------|---------|
-| Swaad | Delhi NCR | Delivered | 3km | NaN |
-| Swaad | Delhi NCR | Delivered | 2km | NaN |
-| Swaad | Delhi NCR | Delivered | <1km | NaN |
-| Swaad | Delhi NCR | Delivered | 2km | 4.0 |
-| Swaad | Delhi NCR | Delivered | 2km | NaN |
-
----
+<img width="1597" height="731" alt="dataset_preview" src="https://github.com/user-attachments/assets/d8516200-6bac-40c7-8cca-d27c1940387c" />
 
 ## 🛠 Technologies Used
 
