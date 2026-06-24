@@ -21,6 +21,36 @@ Using Python, Pandas, Matplotlib, and Seaborn, the dataset was cleaned, analyzed
 
 ---
 
+## 📂 Dataset
+
+⚠️ GitHub cannot preview the complete dataset because the CSV file exceeds GitHub's preview size limit.
+
+### Dataset Files
+
+* Full Dataset: `data/order_history_kaggle_data.csv`
+* Preview Dataset: `data/order_history_preview.csv`
+
+### Dataset Information
+
+| Feature | Value |
+|----------|----------|
+| Total Records | 21,321 |
+| Total Columns | 29 |
+| File Format | CSV |
+| Dataset Size | 6.34 MB |
+
+### Dataset Preview
+
+| Restaurant Name | City | Order Status | Distance | Rating |
+|----------------|------|--------------|----------|---------|
+| Swaad | Delhi NCR | Delivered | 3km | NaN |
+| Swaad | Delhi NCR | Delivered | 2km | NaN |
+| Swaad | Delhi NCR | Delivered | <1km | NaN |
+| Swaad | Delhi NCR | Delivered | 2km | 4.0 |
+| Swaad | Delhi NCR | Delivered | 2km | NaN |
+
+---
+
 ## 🛠 Technologies Used
 
 * Python
